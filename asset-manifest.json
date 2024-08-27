@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/Seequenze-assignment/static/css/main.ebfe53ff.css",
-    "main.js": "/Seequenze-assignment/static/js/main.b8999bc6.js",
+    "main.css": "/Seequenze-assignment/static/css/main.58171d10.css",
+    "main.js": "/Seequenze-assignment/static/js/main.c15516e4.js",
     "static/js/453.1ab3e7ad.chunk.js": "/Seequenze-assignment/static/js/453.1ab3e7ad.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Seequenze-assignment/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Seequenze-assignment/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Seequenze-assignment/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Seequenze-assignment/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Seequenze-assignment/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Seequenze-assignment/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Seequenze-assignment/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Seequenze-assignment/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/Seequenze-assignment/index.html",
-    "main.ebfe53ff.css.map": "/Seequenze-assignment/static/css/main.ebfe53ff.css.map",
-    "main.b8999bc6.js.map": "/Seequenze-assignment/static/js/main.b8999bc6.js.map",
+    "main.58171d10.css.map": "/Seequenze-assignment/static/css/main.58171d10.css.map",
+    "main.c15516e4.js.map": "/Seequenze-assignment/static/js/main.c15516e4.js.map",
     "453.1ab3e7ad.chunk.js.map": "/Seequenze-assignment/static/js/453.1ab3e7ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebfe53ff.css",
-    "static/js/main.b8999bc6.js"
+    "static/css/main.58171d10.css",
+    "static/js/main.c15516e4.js"
   ]
 }
